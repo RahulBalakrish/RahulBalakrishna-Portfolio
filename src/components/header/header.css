@@ -1,0 +1,109 @@
+header {
+    height: 68vh;
+    padding-top: 8rem;
+    overflow: hidden;
+}
+
+.Hello{
+    font-size: 30px;
+    margin: 0;
+}
+
+.Rahul{
+    font-size: 60px;
+    margin: 0;
+}
+
+#Description{
+    font-size: 15px;
+}
+
+#Picture_social{
+    display: flex;
+}
+
+#Header_cont{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    justify-content: space-between;
+    /* position: relative;   */
+}
+ /*=================== CTA ===========================*/
+.cta {
+    margin-top: 2.5rem;
+    display: flex;
+    gap: 1.2rem;
+    justify-content: center;
+}
+
+
+/*=================== Header Socials ===========================*/
+.header_socials {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* position: absolute; */
+    margin-top: 25em;
+    left: 0;
+    bottom: 50%;
+}
+
+#Introduction{
+    margin-top: 8em;
+    margin-left: 30px;
+}
+
+/*=================== ME ===========================*/
+.me {
+    background: linear-gradient(var(--color-primary),transparent);
+    width: 24rem;
+    height: 36rem;
+    position: absolute;
+    left: calc(50% - 11rem);
+    margin-top: 0.1em;
+    margin-left: 18em;
+    border-radius: 12rem 3rem 12rem 3rem;
+}
+
+
+/*=================== Scroll Down ===========================*/
+/* a {
+    position: absolute;
+    right: -2.3rem;
+    bottom: 5rem;
+    transform: rotate(90deg);
+    font-size: 0.9rem;
+    font-weight: 300;
+} */
+
+#Scroll__Down {
+    position: absolute;
+    margin-left: 93em;
+    top: 27rem;
+    transform: rotate(90deg);
+    font-size: 0.9rem;
+    font-weight: 300;
+}
+
+/* =============== MEDIA QUERIES (Medium devices) ============= */
+@media screen and (max-width: 1024px) {
+    header{
+        height: 68vh;
+    }
+}
+
+/* =============== MEDIA QUERIES (Medium devices) ============= */
+@media screen and (max-width: 600px) { 
+    header{
+        height: 100vh;
+    }
+    .me{
+        left: calc(41.5% - 10rem);
+    }
+
+    .header_socials, #Scroll__Down {
+        display: none;
+    }
+}
