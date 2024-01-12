@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/RahulBalakrishna-Portfolio/static/css/main.c623d394.css",
+    "main.css": "/RahulBalakrishna-Portfolio/static/css/main.b4b03f6d.css",
     "main.js": "/RahulBalakrishna-Portfolio/static/js/main.46b6ca69.js",
     "static/media/Rahul.png": "/RahulBalakrishna-Portfolio/static/media/Rahul.58e4eb50fb1eb2502e42.png",
     "static/media/RahulB.jpg": "/RahulBalakrishna-Portfolio/static/media/RahulB.2c276e366a98bc29d897.jpg",
@@ -10,11 +10,11 @@
     "static/media/Rahul_Balakrishna_Software_Engineer.pdf": "/RahulBalakrishna-Portfolio/static/media/Rahul_Balakrishna_Software_Engineer.d8310c5a2e11dab95d21.pdf",
     "static/media/EcommerceBackEnd.jpeg": "/RahulBalakrishna-Portfolio/static/media/EcommerceBackEnd.05406218cc5558c9c781.jpeg",
     "index.html": "/RahulBalakrishna-Portfolio/index.html",
-    "main.c623d394.css.map": "/RahulBalakrishna-Portfolio/static/css/main.c623d394.css.map",
+    "main.b4b03f6d.css.map": "/RahulBalakrishna-Portfolio/static/css/main.b4b03f6d.css.map",
     "main.46b6ca69.js.map": "/RahulBalakrishna-Portfolio/static/js/main.46b6ca69.js.map"
   },
   "entrypoints": [
-    "static/css/main.c623d394.css",
+    "static/css/main.b4b03f6d.css",
     "static/js/main.46b6ca69.js"
   ]
 }
