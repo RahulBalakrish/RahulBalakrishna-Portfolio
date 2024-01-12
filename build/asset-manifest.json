@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/RahulBalakrishna-Portfolio/static/css/main.c623d394.css",
+    "main.js": "/RahulBalakrishna-Portfolio/static/js/main.46b6ca69.js",
+    "static/media/Rahul.png": "/RahulBalakrishna-Portfolio/static/media/Rahul.58e4eb50fb1eb2502e42.png",
+    "static/media/RahulB.jpg": "/RahulBalakrishna-Portfolio/static/media/RahulB.2c276e366a98bc29d897.jpg",
+    "static/media/DBMS.png": "/RahulBalakrishna-Portfolio/static/media/DBMS.1187a67e3a9da6dce260.png",
+    "static/media/Backdrop.avif": "/RahulBalakrishna-Portfolio/static/media/Backdrop.be244d98bd7d2ad72877.avif",
+    "static/media/EcommerceFrontEnd.jpeg": "/RahulBalakrishna-Portfolio/static/media/EcommerceFrontEnd.d3c6c2b404184787de84.jpeg",
+    "static/media/Rahul_Balakrishna_Software_Engineer.pdf": "/RahulBalakrishna-Portfolio/static/media/Rahul_Balakrishna_Software_Engineer.d8310c5a2e11dab95d21.pdf",
+    "static/media/EcommerceBackEnd.jpeg": "/RahulBalakrishna-Portfolio/static/media/EcommerceBackEnd.05406218cc5558c9c781.jpeg",
+    "index.html": "/RahulBalakrishna-Portfolio/index.html",
+    "main.c623d394.css.map": "/RahulBalakrishna-Portfolio/static/css/main.c623d394.css.map",
+    "main.46b6ca69.js.map": "/RahulBalakrishna-Portfolio/static/js/main.46b6ca69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c623d394.css",
+    "static/js/main.46b6ca69.js"
+  ]
+}
