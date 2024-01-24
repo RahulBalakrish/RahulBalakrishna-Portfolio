@@ -6,8 +6,8 @@
 }
 
 .about{
-    height: 95em;
-    padding-top: 2rem;
+    height: 73em;
+    padding-top: 1rem;
 }
 .about_experience{
     
@@ -33,15 +33,35 @@
     text-align: justify;
 }
 .rahul{
-    background: linear-gradient(var(--color-primary),transparent);
-    height: 40rem;
+    /* background: linear-gradient(var(--color-primary),transparent); */
+    height: 25rem;
   width: 25rem;
   position: absolute;
     left: calc(42% - 11rem);
     margin-top: 0.1em;
     transform: scalex(-1);
     margin-right: 23rem;
-    border-radius: 3rem 12rem 3rem 12rem;
+    border-radius: 3rem 12rem 3rem 8rem;
+}
+.rahul_back{
+    /* background: linear-gradient(var(--color-primary),transparent); */
+    width: 24rem;
+    height: 28rem;
+    position: absolute;
+    left: calc(50% - 11rem);
+    margin-top: 0.1em;
+    margin-left: 18em;
+    border-radius: 12rem 3rem 12rem 3rem; 
+}
+
+.getToKnow{
+    font-size: 25px;
+
+}
+.AboutMe{
+    border: 0;
+    margin: 0;
+    font-size: 20px;
 }
 .experience{
     display: grid;
@@ -51,8 +71,8 @@
     margin-left: 80px;
 }
 .about__card{
-    background: linear-gradient(var(--color-primary),transparent);
-    border: 1px solid transparent;
+    background: linear-gradient(rgba(161, 212, 248, 0.6) 20%,transparent 100%);
+    /* background: linear-gradient(var(--color-primary) 50%, transparent 100%); */
     border-radius:  1rem;
     text-align: center;
     transition: var(--transition);

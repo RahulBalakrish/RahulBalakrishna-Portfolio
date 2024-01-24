@@ -3,6 +3,10 @@
     height: 72em;
 }
 
+.services_w h2{
+    font-size: 25px;
+}
+
 .services__box{
     margin-right: 150px;
     margin-left: 150px;
@@ -19,12 +23,11 @@
 }
 
 .portfolio__item{
-    background: linear-gradient(var(--color-primary),transparent);
+    background: linear-gradient(rgba(161, 212, 248, 0.6) 20%,transparent 100%);
     padding: 1.5rem;
     margin: -30px;
     border-radius: 2rem;
     text-align: center;
-    border: 1px solid transparent;
     transition: var(--transition);
 }
 
@@ -36,6 +39,10 @@
 .portfolio__item-image{
     border-radius: 1.5rem;
     overflow: hidden;
+}
+
+.portfolio__item-cta a{
+    text-decoration: none;
 }
 
 .portfolio__item h3{

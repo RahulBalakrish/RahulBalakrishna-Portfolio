@@ -3,6 +3,7 @@
     display: grid;
     grid-template-columns: 30% 58%;
     gap: 12%;
+    margin-top: 2rem;
 }
 
 .contact__options{
@@ -16,13 +17,20 @@
     height: 50em;
 }
 
+.getToKnow{
+    font-size: 25px;
+
+}
+.AboutMe{
+    font-size: 20px;
+}
+
 .contact__option{
-    background: linear-gradient(var(--color-primary),transparent);
+    background: linear-gradient(rgba(161, 212, 248, 0.6) 20%,transparent 100%);
     padding: 0.7rem;
     margin-left: -100px;
     border-radius: 1.2rem;
     text-align: center;
-    border: 1px solid transparent;
     transition: var(--transition);
 }
 

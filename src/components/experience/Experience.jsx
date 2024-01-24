@@ -5,11 +5,11 @@ import {AiFillCheckCircle} from 'react-icons/ai'
 const Experience = () => {
   return (
     <section id='experience' className='experience_w'>
-      <h2 >My Experience</h2>
+      <h2 >My Skills</h2>
 
       <div className="container experience__container">
         <div className="experience__backend">
-            <h5>Backend Development </h5>
+            <h3><b>Backend Development</b> </h3>
             <div className="experience__content">
               <article className='experience__details'> 
                 <AiFillCheckCircle className='experience__details-icon'/>
@@ -77,7 +77,7 @@ const Experience = () => {
             </div>
         </div>
         <div className="experience__backend">
-            <h5>Frontend Development </h5>
+            <h3><b>Frontend Development</b> </h3>
             <div className="experience__content">
               <article className='experience__details'> 
                 <AiFillCheckCircle className='experience__details-icon'/>
@@ -133,7 +133,7 @@ const Experience = () => {
       </div>
       <div className="container experience__container">
         <div className="experience__backend">
-            <h5>Database</h5>
+            <h3><b>Database</b></h3>
             <div className="experience__content">
               <article className='experience__details'> 
                 <AiFillCheckCircle className='experience__details-icon'/>
@@ -166,7 +166,7 @@ const Experience = () => {
             </div>
         </div>
         <div className="experience__backend">
-            <h5>Devops</h5>
+            <h3><b>Devops</b></h3>
             <div className="experience__content">
               <article className='experience__details'> 
                 <AiFillCheckCircle className='experience__details-icon'/>
@@ -208,7 +208,7 @@ const Experience = () => {
       </div>
       <div className="container experience__container">
         <div className="experience__backend">
-            <h5>Quality Assurance</h5>
+            <h3><b>Quality Assurance</b></h3>
             <div className="experience__content">
               <article className='experience__details'> 
                 <AiFillCheckCircle className='experience__details-icon'/>
@@ -248,7 +248,7 @@ const Experience = () => {
             </div>
         </div>
         <div className="experience__backend">
-            <h5>Tools</h5>
+            <h3><b>Tools</b></h3>
             <div className="experience__content">
               <article className='experience__details'> 
                 <AiFillCheckCircle className='experience__details-icon'/>
