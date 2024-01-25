@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/RahulBalakrishna-Portfolio/static/css/main.155f78ef.css",
-    "main.js": "/RahulBalakrishna-Portfolio/static/js/main.38f88c3b.js",
+    "main.css": "/RahulBalakrishna-Portfolio/static/css/main.ef2a9e62.css",
+    "main.js": "/RahulBalakrishna-Portfolio/static/js/main.55f2f90e.js",
     "static/media/Rahul.png": "/RahulBalakrishna-Portfolio/static/media/Rahul.58e4eb50fb1eb2502e42.png",
     "static/media/RahulB.jpg": "/RahulBalakrishna-Portfolio/static/media/RahulB.2c276e366a98bc29d897.jpg",
     "static/media/DBMS.png": "/RahulBalakrishna-Portfolio/static/media/DBMS.1187a67e3a9da6dce260.png",
@@ -10,11 +10,11 @@
     "static/media/EcommerceFrontEnd.jpeg": "/RahulBalakrishna-Portfolio/static/media/EcommerceFrontEnd.d3c6c2b404184787de84.jpeg",
     "static/media/EcommerceBackEnd.jpeg": "/RahulBalakrishna-Portfolio/static/media/EcommerceBackEnd.05406218cc5558c9c781.jpeg",
     "index.html": "/RahulBalakrishna-Portfolio/index.html",
-    "main.155f78ef.css.map": "/RahulBalakrishna-Portfolio/static/css/main.155f78ef.css.map",
-    "main.38f88c3b.js.map": "/RahulBalakrishna-Portfolio/static/js/main.38f88c3b.js.map"
+    "main.ef2a9e62.css.map": "/RahulBalakrishna-Portfolio/static/css/main.ef2a9e62.css.map",
+    "main.55f2f90e.js.map": "/RahulBalakrishna-Portfolio/static/js/main.55f2f90e.js.map"
   },
   "entrypoints": [
-    "static/css/main.155f78ef.css",
-    "static/js/main.38f88c3b.js"
+    "static/css/main.ef2a9e62.css",
+    "static/js/main.55f2f90e.js"
   ]
 }
