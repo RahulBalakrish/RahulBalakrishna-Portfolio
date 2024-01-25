@@ -46,12 +46,14 @@ const Contact = () => {
             <a href="https://github.com/RahulBalakrish?tab=repositories" target='_blank' >Send a Message</a>
           </article>
         </div>
+        <div  className="contact__options">
         <form ref={form} onSubmit={sendEmail}>
           <input type="text" name="Name" placeholder='Your Full Name' required/>
           <input type="email" name="Email" placeholder='Your Mail' required/>
           <textarea name="message" rows={7} placeholder='Your Message' require/>
           <button type='submit' className='btn btn-primary'>Send Message</button>
         </form>
+        </div>
       </div>
     </section>
   )

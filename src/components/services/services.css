@@ -1,6 +1,5 @@
 .services_w{
     padding-top: 2rem;
-    height: 72em;
 }
 
 .services_w h2{
@@ -29,6 +28,7 @@
     border-radius: 2rem;
     text-align: center;
     transition: var(--transition);
+    margin-bottom: 100px;
 }
 
 .portfolio__item:hover{
@@ -55,17 +55,25 @@
 }
 
 /* =============== MEDIA QUERIES (Medium devices) ============= */
-@media screen and (max-width: 1024px) {
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
     .services__box{
-        grid-template-columns: 1fr 1fr;
-        gap: 1.2rem;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 5rem;
+    }
+    .services_w{
+        margin-top: 0;
+    }
+    .portfolio__item{
+        margin-bottom: 100px;
     }
 }
 
 /* =============== MEDIA QUERIES (Medium devices) ============= */
-@media screen and (max-width: 600px) { 
+@media only screen and (max-width: 767px) { 
     .services__box{
+        width: 60%;
     grid-template-columns: 1fr;
+    margin: auto;
     gap: 1rem;
 }
 }

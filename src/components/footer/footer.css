@@ -1,11 +1,9 @@
 footer{
-    height: 32vh;
     background: linear-gradient(var(--color-primary),transparent);
     padding: 1rem 0;
     text-align: center;
     font-size: 0.9rem;
-    margin-top: 7rem;
-    
+    margin-top: 5rem;
 }
 
 footer a{
@@ -54,7 +52,7 @@ footer a{
 }
 
 .footer__copyright {
-    margin-bottom: 10rem;
+    margin-bottom: 5rem;
     color: var(--color-bg);
 }
 

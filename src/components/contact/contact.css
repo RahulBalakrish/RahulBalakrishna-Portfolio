@@ -12,10 +12,7 @@
     gap: 1.2rem;
 }
 
-.contact{
-    padding: 2rem;
-    height: 50em;
-}
+
 
 .getToKnow{
     font-size: 25px;
@@ -85,6 +82,17 @@ input, textarea{
     grid-template-columns: 1fr;
     gap: 2rem;
    }
+   .contact__option{
+   margin: auto;
+   width: 80%;
+   }
+   .btn-primary {
+    margin: auto;
+    }
+   .contact{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
 }
 
 /* =============== MEDIA QUERIES (Medium devices) ============= */
@@ -92,4 +100,21 @@ input, textarea{
     .container.contact__container{
         width: var(--container-width-sm);
        }
+       .contact{
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .contact__option{
+        width: 60%;
+        margin: auto;
+       }
+
+    input, textarea{
+        width: 60%;
+        margin: auto;
+    }
+
+    .btn-primary {
+        margin: auto;
+    }
 }

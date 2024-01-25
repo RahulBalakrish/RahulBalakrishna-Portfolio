@@ -2,12 +2,11 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 2rem;
-    margin-bottom: 2rem;
+    margin-bottom: 5rem;
 }
 
 .experience_w{
     padding-top: 1rem;
-    height: 80em;
 }
 h3{
     text-align: center;
@@ -64,6 +63,11 @@ h3{
         padding: 2rem;
         margin: 0 auto;
     }
+
+    .experience_w{
+        margin-top: 5rem;
+    }
+
     .experience__content{
         padding: 1rem;
     }
@@ -71,12 +75,18 @@ h3{
 
 /* =============== MEDIA QUERIES (Medium devices) ============= */
 @media screen and (max-width: 600px) { 
-   .about__cards{
-    grid-template-columns: 1fr 1fr;
-    gap: 1rem;
+   .experience_w {
+    margin-top: 20rem;
    }
+   .experience__container>div{
+    width: 60%;
+    padding: 2rem;
+    margin: 0 auto;
+}
 
-   .about__container p {
-    margin: 1.5rem 0;
-   }
+
+.experience__content {
+    grid-template-columns: 1fr 1fr;
+    margin-bottom: 5rem;
+}
 }

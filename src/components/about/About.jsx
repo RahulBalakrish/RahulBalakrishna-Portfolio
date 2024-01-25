@@ -46,14 +46,8 @@ Pursuing Master's in Information Systems <br/> Northeastern University, Boston, 
           </div>
           <div className="experience">
             <article className='about_me'>
-            <p>
-
-I am currently pursuing my Master of Science in Information Systems at Northeastern University, with a strong background in electrical and electronics engineering from Ramaiah Institute of Technology. 
-<br/><br/>As a Java Developer at Volvo Group Connected Solutions (TekSystems) for 1.3 years, I specialized in quality assurance, feature development, and integration testing for microservices.
- My expertise includes successful load testing and implementation of event notifications.
-
- <br/> <br/>Previously, at Airbus Germany and UK (Infosys contract) for 1.5 years, I excelled in Mainframe and Java development, contributing to application support and data management. I demonstrated innovation by leading a project to extract data from IMS databases, integrating it into PostgreSQL using Spring Boot and Java.
-              </p>
+            <p>Currently pursuing Master's in Information Systems at Northeastern University, with a strong background in electrical engineering from Ramaiah Institute of Technology. <br/> <br/>Java Developer at Volvo Group Connected Solutions (TekSystems) for 1.3 years, specializing in QA, feature development, and microservices testing. Skilled in successful load testing and event notifications implementation. 
+            <br/><br/>Previous experience at Airbus Germany and UK (Infosys contract) for 1.5 years, excelling in Mainframe and Java development. Contributed to application support and data management, led a project extracting data from IMS databases, integrating into PostgreSQL with Spring Boot and Java.</p>
               </article>
             <article className='about_experience'>
             <div className="rahul_back">

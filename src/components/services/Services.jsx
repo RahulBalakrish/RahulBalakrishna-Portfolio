@@ -42,8 +42,6 @@ const Services = () => {
           </div>
         </article>
       </div>
-      </div>
-      <div className='services__box_2'>
       <div className='container services__container'>
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
@@ -55,6 +53,9 @@ const Services = () => {
           </div>
         </article>
       </div>
+      </div>
+      <div className='services__box_2'>
+      
       </div>
     </section>
   )

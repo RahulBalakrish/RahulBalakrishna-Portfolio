@@ -3,6 +3,8 @@ import './footer.css'
 import {FiInstagram} from 'react-icons/fi'
 import {FaFacebookF} from 'react-icons/fa'
 import {IoLogoTwitter} from 'react-icons/io'
+import {AiFillLinkedin} from 'react-icons/ai'
+import {FaSquareGithub} from 'react-icons/fa6'
 
 
 const Footer = () => {
@@ -19,6 +21,8 @@ const Footer = () => {
       <div className='footer__socials'>
       <a href="https://www.instagram.com/rahulyogi228/" target='_blank'><FiInstagram/></a>
       <a href="https://twitter.com/RahulBalakris" target='_blank'><IoLogoTwitter/></a>
+      <a href="https://www.linkedin.com/in/rahul--balakrishna/" target='_blank'><AiFillLinkedin /></a>
+        <a href="https://github.com/RahulBalakrish?tab=repositories" target='_blank'><FaSquareGithub /></a>
       </div>
       <div className="footer__copyright">
         <small>&copy; @RahulBalakrish Portfolio. All Rights Reserved.</small>
